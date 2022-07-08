@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Basketball",
+    "img": "assets/ex1.png"
+  },
+  {
+    "title": "Motivation",
+    "img": "assets/ex2.png"
+  },
+  {
+    "title": "Invention",
+    "img": "assets/ex3.png"
+  },
+  {
+    "title": "3D Printer",
+    "img": "assets/ex4.png"
+  },
+  {
+    "title": "Technology",
+    "img": "assets/ex1.png"
+  },
+  {
+    "title": "Entrepreneurship",
+    "img": "assets/ex2.png"
+  },
+  {
+    "title": "Debate",
+    "img": "assets/ex3.png"
+  },
+  {
+    "title": "Robotics",
+    "img": "assets/ex4.png"
+  },
+  {
+    "title": "Plastic Innovation",
+    "img": "assets/ex1.png"
+  },
+  {
+    "title": "Discrete Time Convolution",
+    "img": "assets/ex2.png"
+  },
+  {
+    "title": "Manufacturer Washing Machines",
+    "img": "assets/ex3.png"
+  },
+  {
+    "title": "Arduino",
+    "img": "assets/ex4.png"
+  },
+  {
+    "title": "Innovative Aeroplane",
+    "img": "assets/ex4.png"
+  },
+  {
+    "title": "Innovative Waste in Ocean",
+    "img": "assets/ex4.png"
+  }
+]

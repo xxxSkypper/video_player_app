@@ -1,0 +1,97 @@
+[
+  {
+    "title": "BasketBall",
+    "time": "45 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1616586640602%2FVID-20210221-WA0003.mp4?alt=media&token=0c37a176-1266-47a3-b845-2f84d6cb3d47"
+  },
+  {
+    "title": "Motivation",
+    "time": "55 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1616587192144%2FVID-20210307-WA0000.mp4?alt=media&token=3717eb83-4920-49d3-9a08-2ce43f2c30b2"
+  },
+  {
+    "title": "Invention",
+    "time": "60 seconds",
+    "thumbnail": "assets/squat3.jpg",
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1616587305631%2FVID-20210302-WA0006.mp4?alt=media&token=5e2fa5d5-375a-4a1e-b772-a8298a3c3762"
+  },
+  {
+    "title": "3D printer",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1616587436104%2FVID-20210301-WA0054.mp4?alt=media&token=82faa712-1206-499d-be05-7f0cedb3589a"
+  },
+  {
+    "title": "Technology",
+    "time": "45 seconds",
+    "thumbnail": "assets/squat1.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1616587710579%2FVID-20210115-WA0009.mp4?alt=media&token=0e6a5a29-a8a7-412b-9cd4-781a34477a0e"
+  },
+  {
+    "title": "Entrepreneurship",
+    "time": "55 seconds",
+    "thumbnail": "assets/squat2.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1617304278726%2FVID-20210306-WA0007.mp4?alt=media&token=6528ddfe-a814-4d17-90d8-a81e64d651f2"
+  },
+  {
+    "title": "Debate",
+    "time": "60 seconds",
+    "thumbnail": "assets/squat3.jpg",
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1617636854249%2FVID-20210201-WA0009.mp4?alt=media&token=3d981e20-86e7-4c89-96db-835e20fdb2b9"
+  },
+  {
+    "title": "Robotics",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1617638167839%2FVID-20210202-WA0019.mp4?alt=media&token=787e9aa0-4730-4605-bb4d-092ef4e5738c"
+  },
+  {
+    "title": "Plastics Innovation",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1618785166481%2FVID-20210405-WA0005.mp4?alt=media&token=6609f0d8-3d4c-4936-ab3e-48927056a81d"
+  },
+  {
+    "title": "Discrete Time Convolution",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1618785380837%2FDiscrete-time_convolution_sum_and_example(360p).mp4?alt=media&token=182cf369-0283-44d7-85f1-23bd5d192c96"
+  },
+  {
+    "title": "Manufacturer Washing Machines",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1618785590758%2FVID-20210418-WA0000.mp4?alt=media&token=22c8f211-1095-4c7b-92b8-db7d69e47298"
+  },
+  {
+    "title": "Arduino",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1618785762960%2FVID-20210413-WA0010.mp4?alt=media&token=cb0ecdcc-ef76-4d56-a129-002649dfbaa3"
+  },
+  {
+    "title": "Innovative Aeroplane",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1618786021302%2FVID-20210404-WA0000.mp4?alt=media&token=a4768bed-1693-48d0-8fa5-7ab7b865259f"
+  },
+  {
+    "title": "Innovative Waste in Ocean",
+    "time": "120 seconds",
+    "thumbnail": "assets/squat4.jpg",
+    "videoUrl": 
+    "https://firebasestorage.googleapis.com/v0/b/cloud-storage-d5931.appspot.com/o/vids%2F1619397707151%2FVID-20210423-WA0000.mp4?alt=media&token=29a3f494-5e40-4117-af05-b3011adf536b"
+  }
+
+
+]
