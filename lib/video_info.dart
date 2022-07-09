@@ -289,7 +289,7 @@ class _VideoInfoState extends State<VideoInfo> {
   }
 
   _controlView(BuildContext context) {
-    final noMute = (_controller?.value.volume ?? 0) > 0;
+    final noMute = (_controller?.value?.volume ?? 0) > 0;
     final duration = _duration?.inSeconds ?? 0; // if isSeconds is null
     final head = _position?.inSeconds ?? 0;
     final remained = max(0, duration - head);
@@ -340,7 +340,7 @@ class _VideoInfoState extends State<VideoInfo> {
                     _controller?.pause();
                   },
                   onChangeEnd: (value) {
-                    final duration = _controller?.value.duration;
+                    final duration = _controller?.value?.duration;
                     if (duration != null) {
                       var newValue = max(0, min(value, 99)) * 0.01;
                       var millis = (duration.inMilliseconds * newValue).toInt();
