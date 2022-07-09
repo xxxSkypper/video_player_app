@@ -340,7 +340,7 @@ class _VideoInfoState extends State<VideoInfo> {
                     _controller?.pause();
                   },
                   onChangeEnd: (value) {
-                    final duration = _controller?.value?.duration;
+                    final duration = _controller?.value.duration;
                     if (duration != null) {
                       var newValue = max(0, min(value, 99)) * 0.01;
                       var millis = (duration.inMilliseconds * newValue).toInt();
